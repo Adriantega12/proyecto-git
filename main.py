@@ -1,4 +1,5 @@
-print("Hello world")
-
 edad = int(input("Cual es tu edad? :: "))
-print("Tu edad es ::", edad)
+if edad >= 18:
+  print("Puedes pasar")
+else:
+  print("No puedes pasar, estas pollo")
