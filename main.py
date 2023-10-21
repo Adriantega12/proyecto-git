@@ -1,4 +1,4 @@
-edad = int(input("Cual es tu edad? :: "))
+edad = int(input("¿Cual es tu edad? :: "))
 if edad >= 21:
   print("Puedes pasar")
 else:
