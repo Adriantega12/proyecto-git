@@ -5,4 +5,4 @@ if edad >= 21:
 else:
   print("No puedes pasar, estas pollo")
 
-print("Gracias por venir")
+print("Gracias por venir!")
